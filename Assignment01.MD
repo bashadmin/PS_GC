@@ -24,10 +24,10 @@ It should print all the numbers between 0 and limit with a label to identify the
 * For example, if limit is 20, it should return the sum of 3, 5, 6, 9, 10, 12, 15, 18, 20.
 
 #### 6 -- Write a function called show_stars(rows). If rows is 5, it should print the following:
-*
-**
-***
-****
-*****
+\*<br>
+\*\*<br>
+\*\*\*<br>
+\*\*\*\*<br>
+\*\*\*\*\*
 
 #### 7 -- Write a function that prints all the prime numbers between 0 and limit where limit is a parameter.
