@@ -64,18 +64,18 @@
 #
 # show_stars(9)
 
-# def prime(limit):
-#     for i in range(limit + 1):
-#         if i in {2, 3, 5, 7}:
-#             print(str(i))
-#         elif i > 10 and i%2 != 0 and  i%3 != 0 and 1%5 != 0 and i%7 !=0:
-#             print(str(i))
-# 
-# prime(9)
-# print("-----")
-# prime(20)
-# print("-----")
-# prime(50)
+def prime(limit):
+    for i in range(limit + 1):
+        if i in {2, 3, 5, 7}:
+            print(str(i))
+        elif i > 10 and i%2 != 0 and  i%3 != 0 and 1%5 != 0 and i%7 !=0:
+            print(str(i))
+
+prime(9)
+print("-----")
+prime(20)
+print("-----")
+prime(50)
 
 
 
