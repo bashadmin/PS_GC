@@ -1,0 +1,6 @@
+aws_zsh_completer.sh
+gettext.sh
+lesspipe.sh
+setup-nsssysinit.sh
+virtualenvwrapper_lazy.sh
+virtualenvwrapper.sh
