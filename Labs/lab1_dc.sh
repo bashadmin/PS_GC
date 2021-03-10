@@ -7,6 +7,9 @@ echo "What is your name, user?"
 read name
 echo "Hello, $name"
 
+# problem 2: using conditionals
+# Prompt for input, and diplay output based on user's response
+# demonstrating if...elif...else structure
 echo
 echo "$name, you find yourself in a white room with two doors, red and black."
 echo "Which door whould like to enter?"
