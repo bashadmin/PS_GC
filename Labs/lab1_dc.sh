@@ -1,3 +1,8 @@
+# Student: Domenic Campochiaro
+# study session work from 6 March 2021
+
+# problem 1: variable and basic I/O 
+# Prompt the user for input, store it in a variable, and display it back to them
 echo "What is your name, user?"
 read name
 echo "Hello, $name"
