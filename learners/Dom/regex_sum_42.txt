@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bashadmin 
-bashadmin
-/
-PS_GC
-2
-0
-1
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-PS_GC/learners/Dom/regex_sum_42.txt
-@bashadmin
-bashadmin Created folder for Dom and moved files there.
-Latest commit 90bea5e 27 minutes ago
- History
- 1 contributor
-594 lines (489 sloc)  27.9 KB
-  
 This file contains the sample data
 
 
@@ -623,16 +591,3 @@ fresh eyes.  I assure you that once you learn the programming concepts in the bo
 you will look back and see that it was all really easy and elegant and it simply 
 took you a bit of time to absorb it.
 42
-The end
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
