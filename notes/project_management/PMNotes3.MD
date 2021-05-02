@@ -17,7 +17,7 @@ In this phase, ask questions to help set the foundation for the project, such as
 * When does this project need to be completed? 
 * What skills and resources will the project require? 
 * What will the project cost? What are the benefits?
-* 
+* Project initiation is the first phase of the project management life cycle and in this stage, companies decide if the project is needed and how beneficial it will be for them. The two metrics that are used to judge a proposed project and determine the expectations from it are the business case and feasibility study.
 ## Make a plan
 In this phase, make a plan to get your project from start to finish. 
 
