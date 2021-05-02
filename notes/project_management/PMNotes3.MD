@@ -46,5 +46,18 @@ Each phase of the project life cycle has its own significance and reason for exi
 * Capturing the expectations of your customer
 * Setting your project up for success with a plan
 * Executing project tasks and addressing any issues that arise 
-* Closing out your project to capture any lessons learned. 
-As you continue through this course, we will walk through each project phase in more detail.
+* Closing out your project to capture any lessons learned.
+
+<br><br>
+
+# Waterfall and Agile Comparison
+
+|  | Waterfall | Agile      |
+| ----------- | ----------- | ----------- |
+| Project manager's role | Project manager serves as an active leader by prioritizing and assigning tasks to team members.| Agile project manager (or Scrum Master) acts primarily as a facilitator, removing any barriers the team faces. <br/> <br/>Team shares more responsibility in managing their own work.|
+| Scope | Project deliverables and plans are well-established and documented in the early stages of initiating and planning. <br/><br/>Changes go through a formal change request process. | Planning happens in shorter iterations and focuses on delivering value quickly. <br/><br/>Subsequent iterations are adjusted in response to feedback or unforeseen issues. |
+| Schedule | Follows a mostly linear path through the initiating, planning, executing, and closing phases of the project. | Time is organized into phases called Sprints. Each Sprint has a defined duration, with a set list of deliverables planned at the start of the Sprint. |
+| Cost | Costs are kept under control by careful estimation up front and close monitoring throughout the life cycle of the project. | Costs and schedule could change with each iteration. |
+| Quality | Project manager makes plans and clearly defines criteria to measure quality at the beginning of the project. | Team solicits ongoing stakeholder input and user feedback by testing products in the field and regularly implementing improvements. |
+| Communication | Project manager continually communicates progress toward milestones and other key indicators to stakeholders, ensuring that the project is on track to meet the customer’s expectations. | Team is customer-focused, with consistent communication between users and the project team. |
+| Stakeholders | Project manager continually manages and monitors stakeholder engagement to ensure the project is on track. | Team frequently provides deliverables to stakeholders throughout the project. Progress toward milestones is dependent upon stakeholder feedback. |
