@@ -143,3 +143,77 @@ Below is a brief recap of some of the project management approaches you’ve bee
 **Lean Six Sigma** is a combination of Lean and Six Sigma approaches. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems. The 5S quality tool, the DMAIC process, and the use of Kanban boards are all components of this approach. 
 
 Despite their differences, all of these project management methodologies require communication and collaboration among various teams and aim to deliver projects on time and within budget. 
+
+### Waterfall
+- Following a linear path through the project phases is a Waterfall characteristic.Certain tasks must be completed before others can begin.
+- The Waterfall as a methodology was created in the 1970s.
+- Clearly defined project phases are a Waterfall characteristic.The project team should stick to the plan once the project begins.
+- In Waterfall, the project manager makes plans and clearly defines criteria to measure quality at the beginning of the project.Because it is difficult to change the course of Waterfall projects in progress, they involve detailed advance planning.
+- In Waterfall projects, the project manager is an active leader who prioritizes and assigns tasks to team members.The PM’s job is to lead the team through the linear progression of project phases.
+- In Waterfall, change is often difficult to manage once the project begins.Because they are carried out in sequence, Waterfall projects are not very receptive to change.
+- Project deliverables and plans are well-established and documented early on in Waterfall projects.The project begins only after goals, tasks, and schedules are approved.
+### Agile / Scrum
+- Agile involves organizing time into “Sprints” with a set list of deliverables.Some phases and tasks happen at the same time as others.
+- The Agile methodology was created in the 1990s.
+- Testing products in the field and regularly implementing improvements is an Agile characteristic.Feedback and testing can influence future work.
+- In Agile projects, teams share responsibility for managing their own work.The project manager acts as a facilitator who removes barriers for the team.
+- Agile projects are iterative, which makes them receptive to change.
+- Planning happens in short iterations to deliver value quickly in agile projects.Planning each new Sprint as it arises makes for more flexible projects.
+### Lean Six Sigma
+- Lean Six Sigma uses a Kanban scheduling system to manage production.
+- The Lean Six Sigma approach aims to eliminate 8 areas of waste.Reducing waste and increasing efficiency are core aspects of this methodology.
+- Using the 5S quality tool is an Lean Six Sigma characteristic.The 5S tool helps teams use limited resources, reduce waste, and streamline processes.
+- Lean Six Sigma is ideal for fixing complex or high-risk problems.
+### Applies to all 3
+- All methodologies can be combined with other approaches, depending on project needs.
+- All methodologies aim to deliver the project on time and within budget.
+- All methodologies require collaboration among various teams.Communication and working together across disciplines is key to every project’s success.
+
+
+# A project manager’s role in change management
+In the last video, you learned that the process of delivering your completed project and getting people to adopt it is called change management. Change management is a structured approach for dealing with change within an organization. 
+
+### Two people looking at a chart
+In this reading, we will discuss strategies for approaching change management as a project manager. Change management may be your responsibility to varying degrees on different projects. Your project’s success depends on the adoption and acceptance of your deliverable—whether that entails the launch of a new external tool or a process that will change operations at a production facility. In both cases, the greatest impact of the change will be on the people who use and interact with the product or process that is changing. For example, if your website’s user interface changes, the major impact of that change affects the user. The user must learn how the website has been reorganized and adapt to the new way to navigate it. 
+
+### Changes are inevitable, but we are often resistant to them. You can help ensure your project’s success by embracing changes as they come and by convincing the wider audience to embrace changes too. When you implement a careful approach to change management, you can address issues that might occur in the later stages of your project.
+
+### Integrating project management and change management
+As a project manager, you can think of change management as necessary for the successful outcome of your project. Both change management and project management aim to increase the likelihood of project success and incorporate tools and processes to accomplish that goal. The most effective way to achieve a project goal is to integrate project management and change management, and it is your responsibility as a project manager to do so. Let’s look at a few ways you can approach change management on your projects:
+
+- Be proactive: Incorporate change management into your project management steps. For example, you can schedule documentation reviews periodically to ensure that your team members know there is a place to voice their suggestions and concerns. You can also plan steps towards the end of your project to introduce the deliverable to users in the form of demonstrations, question and answer forums, or marketing videos. You can factor all of these decisions into your plan so that any potential changes are less likely to impact your timeline. If these steps have not been built into your plan, you can escalate and stress the importance of a change management plan to your stakeholders. Proactive and inclusive change management planning can help keep any potentially impacted stakeholders aware of the upcoming changes.
+- Communicate: Maintaining communication about upcoming changes are vital to ensuring successful change management. Communication should occur regularly among impacted stakeholders, the change management team, and the project team. 
+Follow a consistent process: Following a clear change management process helps maintain consistency each time there is a change. The change management process should be established and documented early on in your project to guide how the project will handle change. Your organization may also have an overarching change management plan that can be adopted for your project. This may include when the promotion of the change should happen, when training should occur, when the launch or release will occur, and corresponding steps for each phase of the process. 
+- Use tools: Incorporating tools to assist in the adoption of a change can be very helpful. Let's examine a few examples you can use on your next project. Feedback mechanisms, such as surveys, can capture input from stakeholders. Flowcharts can visualize the project's development process. Culture mapping can illustrate the company's culture and how the company's values, norms, and employees behavior may be affected by the change.
+As the project manager, you are responsible for successfully delivering projects. As you hone the skill set you acquire throughout this program, you will find that change management is essential to your projects’ success.
+
+
+# Corporate and project governance
+Governance in business is the management framework within which decisions are made and accountability and responsibility are determined. In simple terms, governance is understanding who is in charge. In this reading, we will discuss corporate governance and project governance. It is important to learn how corporate and project governance are related since you may have to speak about governance in an interview. Additionally, you will need to understand how your project relates to the governance structure of the organization.
+
+## Corporate governance
+Each organization is governed by its own set of standards and practices that direct and control its actions. Those standards and practices are called corporate governance, and they will influence your projects. Corporate governance is the framework by which an organization achieves its goals and objectives. Corporate governance is also a way to balance the requirements of the various corporate entities, such as stakeholders, management, and customers. Corporate governance affects every part of an organization, including action plans, internal and external controls, and performance measurements.
+
+Governance and change management go hand-in-hand. Think back to the previous videos on change management. To successfully implement change management, it is essential that you understand the structure and culture of the organization. Effective governance in change management provides clearly defined roles and responsibilities during change. This enables the people within the organization to have a precise understanding of who makes decisions and of the relationship between those managing and participating in the change management process. 
+
+Another example of governance within an organization is the creation and use of steering committees. Steering committees decide on the priorities of an organization and manage the general course of its operations. The steering committee essentially acts as an advisory board or council to help the project manager and the company make and approve strategic decisions that affect both the company and the project. 
+
+## Project governance
+As a project manager, you will be responsible for project governance. Project governance is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. Project governance involves all the key elements that make a project successful. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
+
+## How project and corporate governance intersect
+Project governance needs to be tailored to your organization's specific needs. These needs will influence how you implement and monitor the governance framework on your project. Project governance concerns those areas of corporate governance that are specifically related to project activities. Effective project governance ensures that an organization’s projects are aligned to the organization’s larger objectives, are delivered efficiently, and are sustainable. This includes:
+
+- Considering the long- and short-term interests of your organization
+- Making thoughtful decisions about which projects to take on and avoiding projects if you do not have sufficient resources
+- Providing timely, relevant, and reliable information to the board of directors and other major stakeholders 
+- Eliciting the input and buy-in of senior managers since they are the decision-makers 
+- During the initiation phase, prioritizing clear, reachable, and sustainable goals in order to reduce confusion and conflict
+- During the planning phase, assigning ownership and accountability to an experienced team to deliver, monitor, and control the process 
+- During the execution phase, learning from mistakes and adapting to new or improved knowledge
+- Corporate governance can involve clearing many hurdles before making decisions. These decisions can influence not only a single project, but the entire corporation. 
+
+At the same time, corporate governance can help support project governance, as it provides oversight on compliance and mitigating risk and offers guidance and direction for project managers. Good corporate governance can also help project managers secure resources, get issues addressed, avoid delays in decision-making, get buy-in from stakeholders, and achieve visibility for projects on the executive level.
+
+Key takeaway
+You should think about an organization’s culture and structure when you are interviewing for a new role and as you begin a new role or project. You should consider an organization’s governance processes and practices in the same way. This will help you understand how decisions are made, who is responsible for what, and what are the potential issues and areas of concern. 
